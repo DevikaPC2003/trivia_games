@@ -136,30 +136,17 @@ The user’s score is displayed and level of player is displayed, and they can r
 )
 
 # Build Photos
-![Team](Add photo of your team here)
+![Innovators](./Snapchat-905130145~2.jpg)
 
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[https://www.loom.com/share/f59364676db24fd7af8fa9dfb45102ca?sid=d34cbadf-0bbe-44ba-84a7-8a0f676088c1]
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- []: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Devika Chettayil: Contributed to designing app.js and style.CSS
+- Alfisa Nazar: Contributed to designing index.html and welCome.html
 
 ---
 Made with ❤️ at TinkerHub
