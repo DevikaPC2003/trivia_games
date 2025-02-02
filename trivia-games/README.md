@@ -150,8 +150,8 @@ The user’s score is displayed and level of player is displayed, and they can r
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[https://www.loom.com/share/f59364676db24fd7af8fa9dfb45102ca?sid=beac70b9-fc8c-40d7-9ff2-96c951f55dba]
+
 
 # Additional Demos
 [Add any extra demo materials/links]
