@@ -136,17 +136,9 @@ The user’s score is displayed and level of player is displayed, and they can r
 )
 
 # Build Photos
-![Team](Add photo of your team here)
+![Innovators](https://drive.google.com/file/d/1g4fhkX-Y9glSoq0veHsKF-NIKNAXvxg7/view?usp=drive_link)
 
 
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
