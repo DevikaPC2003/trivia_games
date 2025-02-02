@@ -136,7 +136,7 @@ The user’s score is displayed and level of player is displayed, and they can r
 )
 
 # Build Photos
-![Innovators](./Snapchat-905130145~2.jpg)
+![Innovators](https://drive.google.com/file/d/1g4fhkX-Y9glSoq0veHsKF-NIKNAXvxg7/view?usp=drive_link)
 
 
 ### Project Demo
