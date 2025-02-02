@@ -136,9 +136,7 @@ The user’s score is displayed and level of player is displayed, and they can r
 )
 
 # Build Photos
-![Innovators](https://drive.google.com/file/d/1g4fhkX-Y9glSoq0veHsKF-NIKNAXvxg7/view?usp=drive_link)
-
-
+https://drive.google.com/file/d/1g4fhkX-Y9glSoq0veHsKF-NIKNAXvxg7/view?usp=drive_link
 ### Project Demo
 # Video
 [https://www.loom.com/share/f59364676db24fd7af8fa9dfb45102ca?sid=d34cbadf-0bbe-44ba-84a7-8a0f676088c1]
